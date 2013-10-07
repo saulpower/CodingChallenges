@@ -29,7 +29,7 @@ public class Main {
     }
 
     /**
-     * Does not account for the same lowest number in multiple adjacent cells
+     * Does account for the same lowest number in multiple adjacent cells
      *
      * @param matrix
      * @param row
